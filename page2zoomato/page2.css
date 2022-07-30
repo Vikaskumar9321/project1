@@ -1,0 +1,154 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+header{
+    background-color: #CE0505;
+    width:100%;
+    height:67px;
+
+    
+}
+.logo{
+    background-color: #FFFFFF;
+    color: #CE0505;
+    height: 46px;
+    width: 46px;
+    border-radius: 51%;
+    margin-left: 8%;
+    text-align:center;
+    font-size:16px;
+    cursor: pointer;
+    padding:1px;
+}
+.logo:hover{
+    transform: scale(1.1);
+    transition: 2.5ms;
+}
+
+.table{ 
+    display:inline-block;
+    width:355px;
+    height:24px;
+    border: 4px;
+    padding: 8px;
+    margin-left: 70%;
+    margin-top:-25%;
+    }
+.heading1{
+     color:#192F60;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     margin-left:9%;
+     margin-top:3%;
+}   
+.table2{
+    background-color:rgb(255, 254, 254);
+    display:inline-block;
+    border:4px;
+    margin-left:9%;
+    width:15%;
+    height:540px;
+    
+    vertical-align: top;
+    box-shadow:0px 3px 6px #00000029;
+    margin-bottom: 4%;
+    
+
+} 
+.filter{
+    color:#192F60;
+    height: 19px;
+    width: 50px;
+    margin-left: 9%;
+    margin-top: 7%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.location{
+    color:#192F60;
+    margin-left: 9%;
+    margin-top: 7%;
+    font-size:12px;
+}
+
+.checkbox{
+    color:#8C96AB;
+    margin-left: 9%;
+    margin-top: 6%;
+    font-size:12px;
+    
+}
+.radio{
+    color:#8C96AB;
+margin-left: 9%;
+margin-top: 6%;
+font-size:12px;
+}
+.space{
+    margin-left:1px;
+}
+.rightcontent{
+    border:#CE0505;
+    margin-left:2%;
+    display: inline-block;
+    width:40%;
+    height:200px;
+    
+  }
+ .topcontent{
+  
+  margin-left:2%;
+  margin-bottom: 5%;
+  display:inline-block;
+  width: 150%;
+  height: 230px;
+  box-shadow:0px 3px 6px #00000029;
+ } 
+ .bottomcontent{
+    
+    margin-left:2%;
+    display:inline-block;
+    width: 150%;
+    height: 230px;
+    box-shadow:0px 3px 6px #00000029;
+   } 
+   .item-left{
+    display:inline-block;
+    margin-left: 4%;
+    margin-top: 2%;
+    
+  }
+  .item-right{
+    display:inline-block;
+    width:50%;
+    vertical-align: top;
+    padding-left:10px;
+    padding-top:25px;
+  }
+  .item-right-header{
+    font-size:25px;
+    color: #192F60;
+    font-family: arial;
+  }
+  .sub{
+    color: #192F60;
+    font-family: arial;
+    font-size:12px;
+  }
+  .item-right-content{
+    
+    font-size:12px;
+    color: #636F88;
+    font-family: arial;
+     padding-top:5px; 
+  }
+  .bottomtext{
+    margin-left:4%;
+    color:#636F88;
+  }
+  .pagin{
+    margin-left:3%;
+    color: #8C96AB;
+    
+  }
+  
